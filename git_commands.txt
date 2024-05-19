@@ -1,0 +1,18 @@
+git ls-files --> staged files
+
+git rm files --> remove both from staged and working directory 
+
+git rm --cached filname--> remove only staged
+
+rm filename --> only working directory
+
+
+git checkout
+------------
+get only the changes which is commited previously in local and staged and woking directory retrieved to the last commit
+
+
+#git log --online
+
+
+
